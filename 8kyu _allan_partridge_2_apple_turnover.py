@@ -3,8 +3,8 @@
 # variation 1
 def apple(x):
     if pow(int(x), 2) > 1000:
-        return 'it\'s hotter than the sun'
-    return 'okay'
+        return 'It\'s hotter than the sun!!'
+    return 'Help yourself to a honeycomb Yorkie for the glovebox.'
   
  # variation 2
 def apple(x):
