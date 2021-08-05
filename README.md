@@ -17,3 +17,4 @@
 # 6 kyu :
 1. Replace with Alphabet Position
 2. Sum of Digits/Digital Root
+3. Fibonacci Rabbits
