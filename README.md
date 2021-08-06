@@ -12,6 +12,7 @@
 9. Multiple of index
 10. My head is at the wrong end
 11. Quarter of the Month
+12. Count the number of cube with paints on
 
 
 # 7 kyu:
