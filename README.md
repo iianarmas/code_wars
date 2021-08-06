@@ -11,6 +11,7 @@
 8. Thinkful-Logic Drills:Traffic Lights
 9. Multiple of index
 10. My head is at the wrong end
+11. Quarter of the Month
 
 
 # 7 kyu:
