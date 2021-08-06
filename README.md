@@ -18,3 +18,7 @@
 1. Replace with Alphabet Position
 2. Sum of Digits/Digital Root
 3. Fibonacci Rabbits
+
+
+# 5 kyu :
+1. Product of Consecutive Fib 
