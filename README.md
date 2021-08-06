@@ -13,6 +13,7 @@
 10. My head is at the wrong end
 11. Quarter of the Month
 12. Count the number of cube with paints on
+13. Is it palindrome?
 
 
 # 7 kyu:
