@@ -10,6 +10,7 @@
 7. Fake Binary
 8. Thinkful-Logic Drills:Traffic Lights
 9. Multiple of index
+10. My head is at the wrong end
 
 
 # 7 kyu:
