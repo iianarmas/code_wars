@@ -9,6 +9,7 @@
 6. Holiday VIII - Duty Free
 7. Fake Binary
 8. Thinkful-Logic Drills:Traffic Lights
+9. Multiple of index
 
 
 # 7 kyu:
