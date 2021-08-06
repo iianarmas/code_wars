@@ -13,6 +13,7 @@
 
 # 7 kyu:
 1. Is n divisible by (...)?
+2. Sum of two consecutive positive integers
 
 # 6 kyu :
 1. Replace with Alphabet Position
