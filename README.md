@@ -14,11 +14,13 @@
 11. Quarter of the Month
 12. Count the number of cube with paints on
 13. Is it palindrome?
+14. Generate range of integers
 
 
 # 7 kyu:
 1. Is n divisible by (...)?
 2. Sum of two consecutive positive integers
+3. Allan Partridge III - London
 
 # 6 kyu :
 1. Replace with Alphabet Position
