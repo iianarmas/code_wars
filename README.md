@@ -23,6 +23,7 @@
 3. Allan Partridge III - London
 4. Switcheroo
 5. Even or Odd - Which is greater
+6. Factorial
 
 # 6 kyu :
 1. Replace with Alphabet Position
