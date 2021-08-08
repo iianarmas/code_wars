@@ -30,6 +30,7 @@
 1. Replace with Alphabet Position
 2. Sum of Digits/Digital Root
 3. Fibonacci Rabbits
+4. Training on color choice
 
 
 # 5 kyu :
