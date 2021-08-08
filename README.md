@@ -24,6 +24,7 @@
 4. Switcheroo
 5. Even or Odd - Which is greater
 6. Factorial
+7. Divisible by 9?
 
 # 6 kyu :
 1. Replace with Alphabet Position
